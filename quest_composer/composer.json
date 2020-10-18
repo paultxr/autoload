@@ -1,0 +1,16 @@
+{
+    "name": "paultxr/quest_composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "PaulTexier",
+            "email": "txrpaul@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    },
+
+    "require": {}
+}
